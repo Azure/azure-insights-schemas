@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-04/schema#",
-	"id": "http://schema.microsoft.azure.insights/schemas/common/logs/2015-07-01/common.json",
+	"id": "http://schema.microsoft.azure.insights/schemas/common/2016-04-01/logs/common.json",
 	"definitions": {
 		"commonProperties": {
 			"type": "object",
